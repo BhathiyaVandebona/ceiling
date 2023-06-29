@@ -1,3 +1,3 @@
 fn main() {
-    println!("Ceiling");
+    println!("Hello, world!");
 }
